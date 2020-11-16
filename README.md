@@ -1,20 +1,25 @@
-#Github PAGES repository where I can aggregate and publish visualizations and data science projects using S&P 500 data from IEX Finance Cloud.
+# gmhfx/S&P 500
 
-##Technologies
-Python 3.8
-Pandas
-Requests
-Plotly Express
-IEX Finance API
-HTML
+Github PAGES repository where I can aggregate and publish visualizations and data science projects using S&P 500 data from IEX Finance Cloud.
 
-##Data
-S&P 500 historical rate and advanced stats from IEX Cloud | Financial Data Infrastructure Cloud:
+## Technologies
+
+* Python 3.8
+* Pandas
+* Requests
+* Plotly Express
+* IEX Finance API
+* HTML
+
+## Data
+
+S&P 500 historical rates and advanced stats from IEX Cloud | Financial Data Infrastructure Cloud:
 
 https://www.iexcloud.io/
 
 
-##Table of Contents
+## Table of Contents
 
-###Contact
+### Contact
+
 gmhfx20@gmail.com
