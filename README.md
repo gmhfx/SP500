@@ -18,7 +18,11 @@ S&P 500 historical rates and advanced stats from IEX Cloud | Financial Data Infr
 https://www.iexcloud.io/
 
 
-## Table of Contents
+## Chart Description
+
+S&P 500 constituents' EPS plotted on log x-axis versus the respective price-earnings multiples plotted on a reversed, log y-axis.  Year-to-date price performance plted on a continuous color scale.
+
+https://gmhfx.github.io/SP500/
 
 ### Contact
 
